@@ -12,7 +12,7 @@ public interface Lib {
             return "Good afternoon";
         }
         else {
-            return "Good Evening";
+            return "Good Evening boss";
         }
     }
 }
